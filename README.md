@@ -68,9 +68,9 @@
 ### 🎟️ Smart Seat Selection
 - Interactive theater seat map with real-time availability
 - Color-coded seats:
-  - 🟦 **Cyan** = Available
+  - 🟦 **Grey** = Available
   - 🟩 **Green** = Selected (by user)
-  - ⬜ **Grey** = Reserved (already booked)
+  - ⬜ **Red** = Reserved (already booked)
 - Section labels (VIP, Standard) with per-section pricing
 - Pinch-to-zoom on seat map for large theaters
 
