@@ -2,6 +2,7 @@
 ## UX Case Study
 
 ---
+![CineBook UI](cover.png)
 
 ## 1. Problem Statement
 
